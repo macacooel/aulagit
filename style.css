@@ -70,3 +70,24 @@ nav ul li a:hover{
     margin: 30px 0;
     border-radius: 5px;
 }
+.sobre
+{
+    background-color: cadetblue;
+    width:30%;
+    margin: auto;
+    display:flex-box;
+    align-items: center;
+    border-radius: 35px;
+    border: 2px solid rgb(16, 14, 156);
+    background-image: url(imagem/universo.jpg);
+}
+.sobre h2
+{
+    font-family: love;
+    color: darkgray;
+    text-align: center;
+}
+.sobre p{
+    text-align: center;
+    color: rgb(251, 255, 0);
+}
